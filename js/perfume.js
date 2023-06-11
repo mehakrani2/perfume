@@ -15,3 +15,14 @@ function search(){
         }
     }
 }
+
+// function closenav(){
+//     var nav = document.getElementById("mn")
+
+//     if(nav.style.display="block"){
+//         nav.style.display="none"
+//     }
+//     else{
+//         nav.style.display="block"
+//     }
+// }
